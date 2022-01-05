@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Prata', serif;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+h1{
+    font-size: 50px;
+    
+}
+.left-border{
+    border-left: 4px solid salmon;
+}
+p{
+    font-size: 20px;
+}
+
+.yellow{
+    color: yellowgreen;
+}
+.half-width{
+    width: 50%;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width img{
+    width: 60%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, salmon);
+    padding: 10px 30px;
+    color: white;
+   font-weight: 800px;
+   font-size: 18px;
+   border-radius: 5px;
+}
