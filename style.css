@@ -27,6 +27,8 @@ p{
     display: flex;
     margin-bottom: 100px;
     margin-left: 90px;
+    margin-right: 50px;
+    
    
 }
 .half-width img{
@@ -96,13 +98,30 @@ footer{
 }
 
 .half-width1{
-    width: 50%;
-    
-    
+    width: 50%;        
 }
+
 .half-width1 img{
     width: 60%;
     margin-left: 5%;
     margin-right: 5px;
 
+}
+.contact-form{
+    width: 60%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 30px rgba(30, 52, 151, 0.699);
+    
+}
+.contact-button{
+   
+    text-decoration: none;
+    background-image: linear-gradient(blue,skyblue);
+    padding: 10px 10px;
+    color: white;
+   font-weight: 700px;
+   font-size: 15px;
+   border-radius: 5px;
 }
