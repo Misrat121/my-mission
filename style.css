@@ -27,7 +27,7 @@ p{
     display: flex;
     margin-bottom: 100px;
     margin-left: 90px;
-    margin-right: 50px;  
+    margin-right: 90px;  
    
 }
 
@@ -52,7 +52,7 @@ p{
 
 
 .bar-item{
-    
+    width:33%;
     margin-right: 5%;
     margin-left: 2%;
     padding-left: 10px;
@@ -74,7 +74,7 @@ p{
     
 }
 .bar-item img{
-    width: 40%;
+    width: 30%;
 }
 
 .last-head{
