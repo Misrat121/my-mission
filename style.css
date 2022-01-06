@@ -89,19 +89,18 @@ p{
     
 }
 .half-width2 img{
-    width: 60%;
+    width: 80%;
     margin-left: 20%;
     margin-right: 5px;
 
 }
 
 .half-width1{
-    width: 50%; 
-          
+    width: 50%;          
 }
 
 .half-width1 img{
-    width: 70%;
+    width: 80%;
     margin-left: 5%;
     margin-right: 5%;
 
@@ -111,14 +110,14 @@ p{
     margin-right: 5%;
     margin-left: 5%;
     padding-left: 10px;
-    box-shadow: 10px 10px 30px rgba(30, 52, 151, 0.699);
+    box-shadow: 10px 10px 30px rgba(151, 34, 30, 0.747);
     height: 280px; 
     
 }
 .contact-button{
    
     text-decoration: none;
-    background-image: linear-gradient(blue,skyblue);
+    background-image: linear-gradient(salmon,tomato);
     padding: 10px 10px;
     color: white;
    font-weight: 700px;
