@@ -27,12 +27,13 @@ p{
     display: flex;
     margin-bottom: 100px;
     margin-left: 90px;
-    margin-right: 50px;
-    
+    margin-right: 50px;  
    
 }
+
 .half-width img{
-    width: 50%;
+    width: 80%;
+    margin-left: 20%;
 }
 .button{
     text-decoration: none;
@@ -98,13 +99,14 @@ footer{
 }
 
 .half-width1{
-    width: 50%;        
+    width: 50%; 
+          
 }
 
 .half-width1 img{
-    width: 60%;
+    width: 70%;
     margin-left: 5%;
-    margin-right: 5px;
+    margin-right: 5%;
 
 }
 .contact-form{
@@ -113,6 +115,7 @@ footer{
     margin-left: 5%;
     padding-left: 10px;
     box-shadow: 10px 10px 30px rgba(30, 52, 151, 0.699);
+    height: 250px; 
     
 }
 .contact-button{
