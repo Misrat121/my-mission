@@ -71,7 +71,7 @@ p{
     
 }
 .bar-item img{
-    width: 50%;
+    width: 40%;
 }
 
 .last-head{
@@ -82,4 +82,27 @@ footer{
     background-color:slategray;
     color:black;
     margin:0;
+}
+
+.half-width2{
+    width: 50%;
+    
+}
+.half-width2 img{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 5px;
+
+}
+
+.half-width1{
+    width: 50%;
+    
+    
+}
+.half-width1 img{
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5px;
+
 }
