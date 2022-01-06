@@ -1,9 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
-    font-family: 'Prata', serif;
     
-    margin-top: 80px;
-    
+    margin-top: 80px; 
+}
+
+.font{
+     font-family: 'Luxurious Roman', cursive;
 }
 
 h1{
@@ -81,16 +83,6 @@ p{
     width: 30%;
 }
 
-.last-head{
-  text-align: center;
-}
-footer{
-    text-align: center;
-    background-color:slategray;
-    color:black;
-    margin:0;
-}
-
 .half-width2{
     width: 50%;
     
@@ -131,4 +123,21 @@ footer{
    font-weight: 700px;
    font-size: 15px;
    border-radius: 5px;
+}
+
+.last-head{
+    text-align: center;
+  }
+  footer{
+      text-align: center;
+      background-color:black;
+      color:white;
+      margin:0;
+  }
+.white{
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.tomato{
+    color: tomato;
 }
